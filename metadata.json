@@ -1,0 +1,5 @@
+{
+  "name": "16:9 Batch Cropper",
+  "description": "Công cụ cắt ảnh hàng loạt về tỷ lệ 16:9 và tải xuống dưới dạng tệp ZIP.",
+  "requestFramePermissions": []
+}
